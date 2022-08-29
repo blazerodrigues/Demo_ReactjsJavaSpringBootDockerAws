@@ -16,7 +16,7 @@ Application working:
 3. Private repositories were created on AWS ECR service, to store the Docker Images on the cloud.
 4. IAM user was created with attached policy name AmazonEC2ContainerRegistryFullAccess, to allow connection to ECR from local machine, using AWS CLI.
 5. Docker Images were pushed from the local machine to ECR.
-6. EC2 instance was created, instance type used was t2.large.
+6. EC2 instance was created, instance type used was t2.large. Changes were made to the security group, to allow requests from my local PC.
 7. Docker was installed on the EC2 instance.
 8. Docker Images were PULLED from the ECR service to the EC2 instance.
 9. Docker Images were RUN.
