@@ -22,3 +22,15 @@ Application working:
 9. Docker Images were RUN.
 10. Application ran successfully on AWS.
 
+EC2 Screenshot <br/>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/96373227/187276776-f90ecce9-d9d5-4ec2-ad9e-c3cb9f9e3ee6.png">
+<br/>
+
+ECR Screenshot <br/>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/96373227/187277285-01261c0b-92ca-4340-905a-d0de687b8d8f.png">
+<br/>
+
+Local to AWS ECR connection using AWS CLI: <br/>
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/96373227/187277823-139fb836-daba-44f2-9c3a-69cdcbb04ec5.png">
+
+
